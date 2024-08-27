@@ -1,0 +1,50 @@
+20:29:07.320 [main] % -5level % logger {36} - suiteXmlPath: "C:\Users\jagad\AppData\Local\Temp\testng-eclipse-423464438\testng-customsuite.xml"
+20:29:07.655 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.657 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+20:29:07.660 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.660 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.660 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.667 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.668 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.668 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.673 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+20:29:07.683 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+20:29:07.684 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.685 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.686 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.686 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.687 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.687 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.690 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.690 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.691 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.691 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.695 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.695 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.695 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.695 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.697 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20:29:07.697 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.700 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.700 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.700 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:29:07.701 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:29:07.713 [main] % -5level % logger {36} - [TestNG] Running:
+  C:\Users\jagad\AppData\Local\Temp\testng-eclipse-423464438\testng-customsuite.xml
+
+20:29:07.735 [main] % -5level % logger {36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+20:29:11.386 [main] % -5level % logger {36} - *** Starting TC001_AccountRegistrationTest ***
+20:29:11.525 [main] % -5level % logger {36} - Clicked on MyAccount link 
+20:29:12.108 [main] % -5level % logger {36} - Clicked on Register link
+20:29:12.111 [main] % -5level % logger {36} - Providing the customer details...
+20:29:13.885 [main] % -5level % logger {36} - *** Finished TC001_AccountRegistrationTest ***
+20:29:14.228 [main] % -5level % logger {36} - [TestNG] Time taken by org.testng.reporters.jq.Main@105b693d: 65 ms
+20:29:14.229 [main] % -5level % logger {36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@3fae596: 1 ms
+20:29:14.237 [main] % -5level % logger {36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@4a5905d9: 8 ms
+20:29:14.244 [main] % -5level % logger {36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@b18c4: 7 ms
+20:29:14.252 [main] % -5level % logger {36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2ff95fc6: 6 ms
+20:29:14.252 [main] % -5level % logger {36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@9d1a267: 0 ms
+20:31:06.012 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:31:06.067 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+20:31:06.071 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:31:06.071 [main] % -5level % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

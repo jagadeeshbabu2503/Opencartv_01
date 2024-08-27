@@ -1,0 +1,66 @@
+17:05:41.908 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml"
+17:05:42.192 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml
+
+17:05:46.637 [main] INFO  % logger {36} - *** Starting TC001_AccountRegistrationTest ***
+17:05:46.719 [main] INFO  % logger {36} - Clicked on MyAccount link 
+17:05:47.370 [main] INFO  % logger {36} - Clicked on Register link
+17:05:47.373 [main] INFO  % logger {36} - Providing the customer details...
+17:05:48.533 [main] INFO  % logger {36} - Validating the confiramation message..
+17:05:48.568 [main] INFO  % logger {36} - *** Finished TC001_AccountRegistrationTest ***
+17:05:51.648 [main] INFO  % logger {36} - *** Starting TC002_LoginTest***
+17:05:52.855 [main] INFO  % logger {36} - *** Finished TC002_LoginTest ***
+17:08:29.907 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml"
+17:08:30.193 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml
+
+17:15:53.497 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml"
+17:15:53.774 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml
+
+17:18:04.107 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\Grouping.xml"
+17:18:04.408 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\Grouping.xml
+
+17:18:56.515 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:56.519 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.053 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.054 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.080 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.081 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.111 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.112 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.134 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.135 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.156 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.157 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.174 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.175 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.194 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.195 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.211 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.212 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.232 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.233 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.251 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.252 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.272 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.273 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.288 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.290 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:18:57.305 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:18:57.306 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:23:01.062 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\Grouping.xml"
+17:23:01.444 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\Grouping.xml
+
+17:23:32.476 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:23:32.479 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:23:32.902 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:23:32.904 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:23:32.926 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:23:32.927 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:23:32.954 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:23:32.954 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+17:23:32.971 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:23:32.972 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels

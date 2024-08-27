@@ -1,0 +1,54 @@
+11:58:12.948 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+11:58:12.960 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+11:58:12.961 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.961 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.962 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.962 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.963 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.970 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.972 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.972 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.973 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.973 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.974 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.975 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.975 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.975 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.976 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.977 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.978 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.979 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.979 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:58:12.979 [main] INFO  % logger {36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:58:12.984 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\AppData\Local\Temp\testng-eclipse--680165381\testng-customsuite.xml
+
+11:58:13.001 [main] INFO  % logger {36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+11:58:13.124 [main] INFO  % logger {36} - [TestNG] Time taken by org.testng.reporters.jq.Main@29e6eb25: 44 ms
+11:58:13.145 [main] INFO  % logger {36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@5b64c4b7: 21 ms
+11:58:13.152 [main] INFO  % logger {36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e3060d8: 7 ms
+11:58:13.159 [main] INFO  % logger {36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42a9e5d1: 7 ms
+11:58:13.165 [main] INFO  % logger {36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2756c0a7: 6 ms
+11:58:13.166 [main] INFO  % logger {36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@350ec41e: 1 ms
+11:58:40.743 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\src\test\java\testCases\testng.xml"
+11:58:41.005 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\src\test\java\testCases\testng.xml
+
+11:58:44.989 [main] INFO  % logger {36} - *** Starting TC001_AccountRegistrationTest ***
+11:58:45.059 [main] INFO  % logger {36} - Clicked on MyAccount link 
+11:58:45.552 [main] INFO  % logger {36} - Clicked on Register link
+11:58:45.553 [main] INFO  % logger {36} - Providing the customer details...
+11:58:46.745 [main] INFO  % logger {36} - Validating the confiramation message..
+11:58:46.779 [main] INFO  % logger {36} - *** Finished TC001_AccountRegistrationTest ***
+11:59:11.080 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\CrossBrowserTesting.xml"
+11:59:11.117 [main] WARN  % logger {36} - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\jagad\eclipse-workspace\OpenCartv_01\CrossBrowserTesting.xml] otherwise TestNG may fail or not work as expected.
+11:59:11.361 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\CrossBrowserTesting.xml
+
+11:59:14.173 [TestNG-tests-2] INFO  % logger {36} - *** Starting TC001_AccountRegistrationTest ***
+11:59:14.308 [TestNG-tests-1] INFO  % logger {36} - *** Starting TC001_AccountRegistrationTest ***
+11:59:14.319 [TestNG-tests-2] INFO  % logger {36} - Clicked on MyAccount link 
+11:59:14.479 [TestNG-tests-1] INFO  % logger {36} - Clicked on MyAccount link 
+11:59:14.841 [TestNG-tests-2] INFO  % logger {36} - Clicked on Register link
+11:59:14.842 [TestNG-tests-2] INFO  % logger {36} - Providing the customer details...
+11:59:15.050 [TestNG-tests-1] INFO  % logger {36} - Clicked on Register link

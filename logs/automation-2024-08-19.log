@@ -1,0 +1,62 @@
+21:53:45.057 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+21:53:45.077 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:53:45.079 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+21:53:45.093 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:53:45.094 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+21:53:45.108 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:53:45.109 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+21:53:45.121 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:53:45.122 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+21:53:45.134 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:53:45.136 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+21:53:45.149 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:53:45.149 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+21:53:45.161 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:53:45.162 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+21:53:45.185 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+21:53:59.118 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+21:53:59.123 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+21:54:23.146 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+21:54:23.146 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+21:54:46.582 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+21:54:46.584 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+21:55:00.855 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+22:03:54.049 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml"
+22:03:54.327 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml
+
+22:04:01.174 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.177 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.623 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.624 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.650 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.651 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.685 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.686 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.712 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.714 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.736 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.737 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.758 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.759 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.780 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.781 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.799 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.800 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.817 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.818 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.837 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.838 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.858 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.859 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.876 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.877 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.893 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:04:01.895 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+22:04:01.924 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+22:04:04.499 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+22:04:04.503 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+22:04:16.429 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+22:04:16.429 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+22:04:28.478 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+22:04:28.478 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***

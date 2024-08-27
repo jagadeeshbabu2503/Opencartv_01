@@ -1,0 +1,65 @@
+16:30:12.271 [main] INFO  % logger {36} - *** Starting TC001_AccountRegistrationTest ***
+16:30:12.352 [main] INFO  % logger {36} - Clicked on MyAccount link 
+16:30:12.761 [main] INFO  % logger {36} - Clicked on Register link
+16:30:12.764 [main] INFO  % logger {36} - Providing the customer details...
+16:30:13.942 [main] INFO  % logger {36} - Validating the confiramation message..
+16:30:13.984 [main] ERROR % logger {36} - Test Failed
+16:30:13.984 [main] DEBUG % logger {36} - Debug logs
+16:30:17.307 [main] INFO  % logger {36} - *** Starting TC002_LoginTest***
+16:30:18.957 [main] INFO  % logger {36} - *** Finished TC002_LoginTest ***
+16:30:23.210 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.212 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.643 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.644 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.664 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.664 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.688 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.688 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.704 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.706 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.720 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.720 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.734 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.735 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.755 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.755 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.770 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.770 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.786 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.788 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.801 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.802 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.818 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.820 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.832 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.834 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.846 [main] DEBUG % logger {36} - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:30:23.846 [main] DEBUG % logger {36} - Parsing relationship: /_rels/.rels
+16:30:23.860 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+16:30:26.525 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+16:30:26.529 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+16:30:38.511 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+16:30:38.511 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+16:30:51.826 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+16:30:51.828 [main] INFO  % logger {36} - *** Starting TC003_LoginDDT ***
+16:30:57.181 [main] INFO  % logger {36} - *** Finished TC003_LoginDDT ***
+16:35:07.082 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\test-output\testng-failed.xml"
+16:35:07.354 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\test-output\testng-failed.xml
+
+16:35:10.292 [main] INFO  % logger {36} - *** Starting TC001_AccountRegistrationTest ***
+16:35:10.376 [main] INFO  % logger {36} - Clicked on MyAccount link 
+16:35:10.903 [main] INFO  % logger {36} - Clicked on Register link
+16:35:10.905 [main] INFO  % logger {36} - Providing the customer details...
+16:35:12.188 [main] INFO  % logger {36} - Validating the confiramation message..
+16:35:12.221 [main] INFO  % logger {36} - *** Finished TC001_AccountRegistrationTest ***
+17:00:23.646 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml"
+17:00:23.959 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml
+
+17:04:08.817 [main] DEBUG % logger {36} - suiteXmlPath: "C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml"
+17:04:09.089 [main] INFO  % logger {36} - [TestNG] Running:
+  C:\Users\jagad\eclipse-workspace\OpenCartv_01\Master.xml
+
+17:05:13.951 [main] INFO  % logger {36} - *** Starting TC002_LoginTest***
+17:05:15.487 [main] INFO  % logger {36} - *** Finished TC002_LoginTest ***
